@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photo Sec</string>
+    <string name="ru_menu_item_settings">Настройки</string>
+    <string name="ru_menu_item_contacts">Контакты</string>
+    <string name="ru_menu_item_search">Поиск</string>
+    <string name="ru_local_storage">Хранилище</string>
+    <string name="ru_subtitle_files">файлов</string>
+    <string name="local_storage">Local Storage</string>
+
+    <string-array name="list_storage">
+        <item>Local storage</item>
+        <item>Google Disk</item>
+        <item>Yandex Disk</item>
+    </string-array>
+</resources>
